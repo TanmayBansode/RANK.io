@@ -19,11 +19,11 @@
     </div>
     <div class="options">
       <button on:click={upvote(country)} class="upvote vote">
-        <img src="./src/assets/vote.png" alt="" class="imgu" />
+        <img src="https://user-images.githubusercontent.com/113820623/219949607-e111d6ec-6efd-47e0-bd4c-163128325e58.png" alt="" class="imgu" />
       </button>
 
       <button on:click={downvote(country)} class="downvote vote">
-        <img src="./src/assets/vote.png" alt="" class="imgd" />
+        <img src="https://user-images.githubusercontent.com/113820623/219949607-e111d6ec-6efd-47e0-bd4c-163128325e58.png" alt="" class="imgd" />
       </button>
 
     </div>
