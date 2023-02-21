@@ -15,6 +15,8 @@
     <h3>A Simple Voting Tool</h3>
   </div>
   <List />
+  <hr>
+  <h4 class="end-credit">© Tanmay Bansode</h4>
 </main>
 
 <style>
@@ -23,9 +25,7 @@
 .section-title{
   font-size: 4.4rem;
   font-weight: bold;
-  color: #fcffe7;
-  margin-bottom: 10px;
-  margin-top: 20px;
+  color: #fcffe7; 
   font-family: 'Montserrat', sans-serif;
 
 
@@ -44,6 +44,25 @@ h3 {
     font-weight: 500;
     position: relative;
     font-style: italic;
+  }
+
+  .end-credit{
+  text-align: center;
+  margin: 3% auto;
+  color: #f0f1e5f1;
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+  font-style: normal;
+}
+
+
+hr {
+    border-top: 3px simple #eeeeee;
+    border-bottom: 0;
+    align-items: center;
+    width: 80%;
+    background-color: #222831;
+    margin-top: 50%;
   }
 
 </style>

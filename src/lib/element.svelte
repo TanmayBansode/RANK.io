@@ -37,58 +37,51 @@
 </div>
 
 <style>
-  .name {
-    width: 450px;
-  }
+ 
 
-  .rankcount {
-    width: 50px;
-    padding: 0;
-    text-align: center;
-  }
 
   .element {
     display: flex;
-    width: 970px;
+    width: 100%;
     font-family: 'Poppins', sans-serif;
     margin: 8px auto;
     
   }
 
   .rank {
-    width: 75px;
+    width: 7.2%;
     height: 75px;
     background-color: #08D9D6;
     border-radius: 17px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 5px;
   }
   .main {
     background-color: #393E46;
     margin: auto;
-    width: 900px;
+    width: 92%;
     height: 75px;
     border-radius: 17px;
     display: flex;
-    padding-left: 20px;
+
   }
 
   h1 {
-    width: 600px;
+    width: 100%;
     font-size: 2.4rem;
-    margin-top: 10px;
+    margin: 1.3% 3%;
     color: white;
     font-family: 'Poppins', sans-serif;
     padding: 0;
-    margin-right: 0;
+
   }
 
   h2 {
     font-size: 2.5rem;
     color: aliceblue;
     margin: 0;
+    width: auto;
   }
 
   h3 {
@@ -98,23 +91,27 @@
     font-weight: lighter;
   }
 
+   .name {
+    width: 70%;
+  }
+
   .options {
     display: flex;
-    margin: 4px 120px 4px 10px;
-    padding-left: 120px;
-    width: 80px;
-    position: relative;
-    left: 50px;
+    margin: 4px 0;
+    width: 18%;
   }
 
-  .name {
-    display: inline-block;
+    .rankcount {
+    width: 6%;
+    margin: auto;
+    text-align: center;
   }
+
 
   .vote {
-    width: 60px;
+    width: 10%;
     height: 60px;
-    margin: 4px 16px 4px 10px;
+    margin: 4px auto;
     background: none;
 	  color: inherit;
 	  border: none;

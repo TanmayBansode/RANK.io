@@ -81,14 +81,10 @@
 <style>
   #listoften {
     background-color: transparent;
-    width: 1000px;
+    width: 60%;
     margin: auto;
     border-radius: 15px;
     border-color: rgb(145, 149, 153);
-
-    position: relative;
-    bottom: 40px;
-
   }
 
 

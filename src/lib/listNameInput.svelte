@@ -20,14 +20,14 @@
       .inputdiv {
         font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
       sans-serif;
-        margin: 100px auto;
+        margin: 5% auto;
         width: 500px;
       }
       
       .input {
         position: relative;
         font-family: 'Poppins', sans-serif;
-      outline: none;
+        outline: none;
       }
       .input__label {
         position: absolute;
