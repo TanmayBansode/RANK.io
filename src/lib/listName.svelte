@@ -12,7 +12,7 @@
     font-weight: bold;
     color: #fcffe7;
     font-family: 'Poppins', sans-serif;
-    margin: 2% 0% 2%;
+    margin: 2% 0%;
   }
 
   #lt {

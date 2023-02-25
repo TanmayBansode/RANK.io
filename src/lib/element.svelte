@@ -49,7 +49,7 @@
   }
 
   .rank {
-    width: 7.2%;
+    width: 8%;
     height: 75px;
     background-color: #08D9D6;
     border-radius: 17px;
@@ -60,8 +60,8 @@
   .main {
     background-color: #393E46;
     margin: auto;
-    width: 92%;
-    height: 75px;
+    width: 90%;
+ height: 75px;
     border-radius: 17px;
     display: flex;
 
@@ -78,7 +78,7 @@
   }
 
   h2 {
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     color: aliceblue;
     margin: 0;
     width: auto;

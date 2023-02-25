@@ -82,9 +82,10 @@
   #listoften {
     background-color: transparent;
     width: 60%;
-    margin: auto;
+    margin: 0 auto;
     border-radius: 15px;
     border-color: rgb(145, 149, 153);
+
   }
 
 

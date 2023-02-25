@@ -62,7 +62,7 @@ hr {
     align-items: center;
     width: 80%;
     background-color: #222831;
-    margin-top: 50%;
+    margin-top: 150%;
   }
 
 </style>

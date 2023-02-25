@@ -21,7 +21,7 @@
         font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
       sans-serif;
         margin: 5% auto;
-        width: 500px;
+        width: 40%;
       }
       
       .input {
@@ -31,7 +31,7 @@
       }
       .input__label {
         position: absolute;
-        left: 18px;
+        left: 2px;
         top: 6px;
         padding: 0.2rem 0.28rem;
         background: white;
@@ -39,7 +39,7 @@
         line-height: 1.4;
         font-size: 2rem;
         border-radius: 25px;
-        width: 440px;
+        width: 94%;
         text-align: center;
         color: #393E46;
         font-family: 'Poppins', sans-serif;
